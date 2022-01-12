@@ -23,6 +23,5 @@
 
 
 
-### GitHub Link
-* [GitHub Link](https://github.com/hamitmizrak/Bilgeadam_SpringMvc_Form)
+
 # SpringMvc_Form
